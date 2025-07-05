@@ -60,8 +60,8 @@ The focus is on implementing **Clean Architecture**, emphasizing **separation of
 ## 📁 Folder Structure (Optional)
 ```bash
 /src
-  /pages
-    index.tsx
+  /app
+    page.tsx
   /components
     WeeklyBoard.tsx
     TaskForm.tsx
